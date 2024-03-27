@@ -1,0 +1,10 @@
+.wrapper {
+    padding: 50px;
+    border: 2px solid #000;
+    border-radius: 16px;
+}
+
+.wrapper:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
